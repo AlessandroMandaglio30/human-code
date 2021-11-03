@@ -1,3 +1,5 @@
+ESERCIZIO 5
+
 ALGORITMO 1
 
 -Apro www.amazon.it
@@ -47,3 +49,11 @@ Controllo il prodotto successivo nella ricerca
 -Vado su “Cerca”
 -Digito “Libro”
 -Acquisto un libro
+
+
+TEAM NUMERO 5:
+ALESSANDRO MANDAGLIO
+MARCO CUSENZA
+ANTONIO STRAZIOTA
+ROBERTO D'AMBROSIO
+MATTIA DOMINICI
